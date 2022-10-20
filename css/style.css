@@ -1,0 +1,17 @@
+#block-content{
+	padding-top: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
+	height: auto;
+}
+.h2-title{
+    font: 25px sans-serif;
+    border-bottom: 1px solid #c0a3a3;
+    padding-bottom: 3px;
+}
+.btn-primary{
+	margin-top: 25px;
+}
+
+
